@@ -3,7 +3,7 @@
 </p>
 
 ## 💫 About Me:
-🔭 I’m currently working on Fitness Tracking website<br>🌱 I’m currently learning Data Structures and Algorithms<br>
+🔭 I’m currently working on a Fitness Tracking website<br>🌱 I’m currently learning Data Structures and Algorithms<br>
 
 
 ## 🌐 Socials:
