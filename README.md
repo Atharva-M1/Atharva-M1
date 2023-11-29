@@ -17,5 +17,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-m1&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=atharva-m1&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=atharva-m1&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
